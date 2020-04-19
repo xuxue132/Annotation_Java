@@ -8,6 +8,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.FIELD, ElementType.TYPE})//变量和类
 public @interface Column {
+    //注解
     public String name() default "";
     public boolean Nullable() default false;
     public int MaxLength() default -1;

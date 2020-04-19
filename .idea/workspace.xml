@@ -347,7 +347,6 @@
       <change afterPath="$PROJECT_DIR$/../tomcatclass/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tomcatclass/tomcatclass.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Annotation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/Label.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/Person.class" beforeDir="false" />
@@ -370,6 +369,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:xuxue132/Java_Annotation.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1akYuv5KHcNzfaVIFYtLRogmiGm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -417,7 +423,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587281284094</updated>
-      <workItem from="1587281285318" duration="691000" />
+      <workItem from="1587281285318" duration="1011000" />
     </task>
     <servers />
   </component>
