@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbfa4d5a-a15a-451e-bbe9-4bc8330b18db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../11823020317徐学.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/GenericParadigm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/out/production/GenericParadigm/Four/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/out/production/GenericParadigm/Four/PersonManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/out/production/GenericParadigm/Four/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/out/production/GenericParadigm/Four/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/out/production/GenericParadigm/Four/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/src/Five/SimpleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/src/Four/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/src/Four/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/src/Four/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/src/Four/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericParadigm/src/Four/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/JavaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/WebContent/AddInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/WebContent/Change.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/WebContent/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/WebContent/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/dao/MajorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/dao/StudentInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/dataBase/Connection/ConPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/dataBase/Connection/MyCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/dataBase/Connection/MySqlDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/dataBase/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/entity/Major.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/image/校徽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/services/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/servlet/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/build/classes/util/DataUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/dao/MajorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/dao/StudentInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/dataBase/Connection/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/dataBase/Connection/MyCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/dataBase/Connection/MySqlDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/dataBase/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/entity/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/image/校徽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/services/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/servlet/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb/src/util/DataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/JavaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/WebContent/AddInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/WebContent/Change.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/WebContent/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/WebContent/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/dao/MajorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/dao/StudentInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/dataBase/Connection/ConPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/dataBase/Connection/MyCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/dataBase/Connection/MySqlDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/dataBase/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/entity/Major.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/image/校徽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/servlets/AddInfoServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/servlets/DelInfoServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/servlets/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/servlets/UpdateInfoServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/build/classes/servlets/getinfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/dao/MajorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/dao/StudentInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/dataBase/Connection/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/dataBase/Connection/MyCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/dataBase/Connection/MySqlDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/dataBase/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/entity/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/image/校徽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/servlets/AddInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/servlets/DelInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/servlets/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/servlets/UpdateInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb1/src/servlets/getinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWeb2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/ProxyWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/Dynamic/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/Dynamic/PersonHandle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/Dynamic/PersonInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/Dynamic/PersonProxy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/META-INF/ProxyWork.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/StaticClass/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/StaticClass/PersonInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/StaticClass/PersonProxy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/StaticClass/PersonProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/out/production/ProxyWork/StaticClass/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/Dynamic/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/Dynamic/PersonHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/Dynamic/PersonInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/Dynamic/PersonProxy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/StaticClass/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/StaticClass/PersonInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/StaticClass/PersonProxy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/StaticClass/PersonProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProxyWork/src/StaticClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/MysqlTest/Utils/StudentUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/MysqlTest/bean/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/MysqlTest/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/MysqlTest/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/MysqlTest/dao/MyCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/MysqlTest/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Servlet/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Servlet/Ser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Servlet/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Servlet/findServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/web/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/web/work.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/.idea/WebRoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/dao/DepartmentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/db/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/db/MyDB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/db/example08/ConPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/db/example08/DBTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/db/example08/MyCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/db/example08/MySqlDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/entity/Department.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/filters/MyFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/servlets/FirstServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/classes/util/DataUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/business/MyJsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebRoot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/.idea/homeWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/homeWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/personInfo/Person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/personInfo/PersonX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/src/works1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/src/works1/ReflectPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/src/works1/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/src/works2/ReflectInfoToText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/homeWorks/src/works3/SetInfoToEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works4/PersonInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works4/PersonProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works4/PersonProxy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works4/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works5/PersonInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works5/PersonProxyHandle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works5/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorks/src/works5/ProxyHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/artifacts/java_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/out/artifacts/java_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/out/artifacts/java_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/dao/MajorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/dao/StudentInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/dataBase/Connection/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/dataBase/Connection/MyCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/dataBase/Connection/MySqlDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/dataBase/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/entity/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/image/校徽.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/servlets/AddInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/servlets/DelInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/servlets/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/servlets/UpdateInfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/servlets/getinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/.idea/artifacts/java_study_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/java_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/AddInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/Change.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/META-INF/java_study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/dao/MajorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/dao/StudentInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/dataBase/Connection/ConPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/dataBase/Connection/MyCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/dataBase/Connection/MySqlDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/dataBase/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/entity/Major.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/classes/servlets/FirstServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/artifacts/java_study_war_exploded/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/out/production/java_study/META-INF/java_study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/dao/MajorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/dao/StudentInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/dataBase/Connection/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/dataBase/Connection/MyCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/dataBase/Connection/MySqlDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/dataBase/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/entity/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/src/servlets/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/AddInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/Change.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/HomePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/META-INF/java_study.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/dao/MajorDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/dao/StudentInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/dataBase/Connection/ConPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/dataBase/Connection/MyCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/dataBase/Connection/MySqlDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/dataBase/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/entity/Major.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/filter/LoginFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/classes/servlets/FirstServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_study/web/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/javahomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/out/production/javahomework/Person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/out/production/javahomework/one/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/out/production/javahomework/one/ReflectP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/out/production/javahomework/one/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/out/production/javahomework/three/ReflectThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/out/production/javahomework/two/ReflectTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/Person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/PersonX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/one/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/one/ReflectP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/one/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/three/ReflectThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javahomework/src/two/ReflectTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javawork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/LogProxyHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/PermitProxyHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/PersonProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/SpeakableIntf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/StudentIntf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcatclass/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcatclass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcatclass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcatclass/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tomcatclass/tomcatclass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Annotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/Label.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/PersonAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/PersonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/PersonInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Annotation/one/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/one/Label.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/one/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/one/PersonAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/one/PersonDisplay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/one/PersonInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/one/Test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1akYuv5KHcNzfaVIFYtLRogmiGm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="two.Test" />
+      <module name="Annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfa4d5a-a15a-451e-bbe9-4bc8330b18db" name="Default Changelist" comment="" />
+      <created>1587281284094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587281284094</updated>
+      <workItem from="1587281285318" duration="691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1862" height="248" key="GridCell.Tab.0.bottom" timestamp="1587281353718">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1587281353718" />
+    <state width="1862" height="248" key="GridCell.Tab.0.center" timestamp="1587281353718">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="248" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1587281353718" />
+    <state width="1862" height="248" key="GridCell.Tab.0.left" timestamp="1587281353717">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="248" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1587281353717" />
+    <state width="1862" height="248" key="GridCell.Tab.0.right" timestamp="1587281353718">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state width="1862" height="248" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1587281353718" />
+    <state x="445" y="191" key="IDE.errors.dialog" timestamp="1587281871246">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="445" y="191" key="IDE.errors.dialog/0.0.1920.1030@0.0.1920.1030" timestamp="1587281871246" />
+  </component>
+</project>
